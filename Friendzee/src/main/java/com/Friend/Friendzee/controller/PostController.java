@@ -16,7 +16,7 @@ import com.Friend.Friendzee.service.PostService;
  
 @CrossOrigin(value="http://localhost:3000")
 @RestController
-@RequestMapping("/post")
+@RequestMapping("/api/v1/post")
 public class PostController {
 	
 	private PostService postService;
@@ -25,7 +25,7 @@ public class PostController {
 		this.postService = postService;
 	}
 	
-	@PostMapping("/")
+	@PostMapping
 	public Post addPost(@RequestParam Map<String,String> requestParams) throws Exception {
 		String strpost = requestParams.get("post");
 		String email = requestParams.get("email");
@@ -47,7 +47,7 @@ public class PostController {
 		
 	}
 	
-	@GetMapping("/")
+	@GetMapping
 	public List<Post> getPost(){
 		return postService.getPost();
 		
