@@ -45,7 +45,9 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 https://start.spring.io/
+
 https://mysql.com/downloads/mysql/
+
 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-03/R/eclipse-inst-jre-win64.exe
 
 npx create-next-app facebook-clone
