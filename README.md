@@ -1,4 +1,4 @@
-# Login And Registration using Servelets,JSP And MySql
+# Facebook cloning (Friendzee) using NextJs, NextAuth, Rest API, React Hook, SpringBoot and MySQL
 
 
 
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="LoginPage.png" alt="Project logo"></a>
+ <img width=500px height=200px src="After posting the post.png" alt="Project logo"></a>
 </p>
 
 
