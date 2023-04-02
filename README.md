@@ -10,7 +10,7 @@
 </p>
 
 
-<h3 align="center">LoginPage</h3>
+<h3 align="center">Home Page</h3>
 
 ---
 
