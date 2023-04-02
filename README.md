@@ -49,12 +49,19 @@ https://mysql.com/downloads/mysql/
 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-03/R/eclipse-inst-jre-win64.exe
 
 npx create-next-app facebook-clone
+
 npm install -D tailwindcss postcss autoprefixer
+
 npx tailwindcss init -p
+
 npm install react-icons --save
+
 npm install --save next-auth
+
 npm install axios
+
 npm install react-redux
+
 npm install @reduxjs/toolkit
 
 npm install --save-dev eslint
