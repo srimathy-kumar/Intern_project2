@@ -43,7 +43,6 @@ we have install Eclipse, Visual Studio, Next-auth, next-react, react-redux, @red
 ### Installing
 A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
 https://start.spring.io/
 
 https://mysql.com/downloads/mysql/
