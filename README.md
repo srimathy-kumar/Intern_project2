@@ -115,7 +115,7 @@ Add additional notes about how to deploy this on a live system.
 
 ![bg width:1000px](./LoginPageflowchart.png)
 
-- [MongoDB](https://www.mongodb.com/) - Database
+- [MySQL](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
 - [VueJs](https://vuejs.org/) - Web Framework
 - [Visual Studio](https://nodejs.org/en/) - Server Environment
