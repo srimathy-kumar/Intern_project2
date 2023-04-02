@@ -38,7 +38,25 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What things you need to install the software and how to install them.
 
-we have install Eclipse, Visual Studio, Next-auth, next-react, react-redux, @reduxjs/toolkit, TailwindCSS,  axios, eslint
+we have install 
+
+Eclipse, 
+
+Visual Studio, 
+
+Next-auth, 
+
+next-react, 
+
+react-redux, 
+
+@reduxjs/toolkit, 
+
+TailwindCSS, 
+
+axios, 
+
+eslint
 
 ### Installing
 A step by step series of examples that tell you how to get a development env running.
@@ -67,7 +85,7 @@ npm install @reduxjs/toolkit
 
 npm install --save-dev eslint
 
-End with an example of getting some data out of the system or using it for a little demo.
+
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
