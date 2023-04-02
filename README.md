@@ -56,6 +56,11 @@ End with an example of getting some data out of the system or using it for a lit
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
 
+run "java application" for SpringBoot to start the project
+
+"npm run dev" for nextJs in front-end
+
+
 ### Break down into end to end tests
 Explain what these tests test and why
 
