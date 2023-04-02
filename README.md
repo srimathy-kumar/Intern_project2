@@ -45,11 +45,19 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 https://start.spring.io/
-Give the example
+https://mysql.com/downloads/mysql/
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-03/R/eclipse-inst-jre-win64.exe
 
-And repeat
+npx create-next-app facebook-clone
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install react-icons --save
+npm install --save next-auth
+npm install axios
+npm install react-redux
+npm install @reduxjs/toolkit
 
-until finished
+npm install --save-dev eslint
 
 End with an example of getting some data out of the system or using it for a little demo.
 
@@ -84,7 +92,7 @@ Add additional notes about how to deploy this on a live system.
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
 - [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Visual Studio](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@SkillLymc](https://github.com/kylelobo) - FSD
