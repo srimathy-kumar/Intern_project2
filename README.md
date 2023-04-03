@@ -71,7 +71,7 @@ https://mysql.com/downloads/mysql/
 
 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-03/R/eclipse-inst-jre-win64.exe
 
-Front-End
+Front-End:
 
 npx create-next-app facebook-clone
 
