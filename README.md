@@ -30,7 +30,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Fully Functional E-commerce website Home Page is a responsive e-commerce website. The technologies used in this project are NextJs, TailwindCSS, NextAuth, Rest API and React Hook. There are a few important modules in the project like home page, creating post, adding/deleting the images, online/offline status of user, Like/Share/Comments. The data is accessed using Rest API and then rendered into the webpage. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant features.
+Home Page of facebook cloning in name of "Friendzee" is a responsive website. The technologies used in this project are NextJs, TailwindCSS, NextAuth, Rest API and React Hook. There are a few important modules in the project like home page, creating post, adding/deleting the images, online/offline status of user and Like/Share/Comments. The data is accessed using Rest API and then rendered into the webpage. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant features.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -64,7 +64,6 @@ eslint
 A step by step series of examples that tell you how to get a development env running.
 
 Back-End:
-
 
 https://start.spring.io/
 
@@ -104,7 +103,7 @@ Running the project using the following comments:
 
 
 ### Break down into end to end tests
-End-to-end tests are designed to test the complete flow of the application from the user's perspective, so it's important to think about the different user actions and interactions that need to be tested. 
+End-to-end tests are designed to test the complete flow of the application from the user's perspective so it's important to think about the different user actions and interactions that need to be tested. 
 
 1. User authentication: Test the user authentication flow, including logging in with valid and invalid credentials, session management, and logout functionality using the NextAuth.
 
@@ -124,7 +123,23 @@ By testing the application end-to-end, the entire application is functioning as 
 Add notes about how to use the system.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+To deploy the application to a production environment, follow these steps:
+
+Ensure that you have installed the required dependencies and have configured the necessary environment variables, such as the database connection details and any API keys or secrets.
+
+Build the production-ready version of the application by running the appropriate build command, such as npm run build for the frontend or ./mvnw package for the backend.
+
+Copy the built application to the server or hosting environment where you want to deploy the application.
+
+Start the application by running the appropriate startup command, such as java -jar <path to jar file> for the backend or npm start for the frontend.
+
+Ensure that the application is accessible from the internet by configuring any necessary firewalls or network settings, and by setting up any necessary DNS or domain mapping.
+
+Monitor the application for any errors or issues, and make any necessary updates or patches as needed.
+
+It's also a good idea to include any relevant information about the hosting environment or server requirements, such as the minimum recommended system specifications, the operating system or platform required, and any dependencies or libraries that must be installed.
+
+In addition, you may want to include any troubleshooting tips or common issues that users may encounter during deployment, along with suggested solutions or workarounds. This can help to ensure that the deployment process is as smooth and error-free as possible, and can help to minimize downtime or disruption for users.
 
 ## ⛏ Flow Chart <a name = "flowchart"></a>
 
@@ -132,8 +147,8 @@ Add additional notes about how to deploy this on a live system.
 
 - [MySQL](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [Visual Studio](https://nodejs.org/en/) - Server Environment
+- [NextJs](https://nextjs.org/) - Web Framework
+- [Visual Studio](https://code.visualstudio.com/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@SkillLymc](https://github.com/kylelobo) - FSD
