@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> In my project, I had implemented the cloning concept in which I had used facebook cloning in name of "Friendzee" using NextJs, NextAuth, Rest API, React Hook, SpringBoot and MySQL. Facebook cloning is a scam in which attacker copies the profile picture of an authorized user, creates a new account using the person's name and send friend requests to people on the user's list. TailWindCSS is used for css styling which has in-built functionalities. Main Purpose of this project is to give facility to create community and convey the world closer together. My project helps to interact with friends by sharing images, videos and Activity/Feelings in Post.
+<p align="center"> In my project, I had implemented the cloning concept in which I had used facebook cloning in name of "Friendzee" using NextJs, NextAuth, Rest API, React Hook, SpringBoot and MySQL. Facebook cloning is a scam in which attacker copies the profile picture of an authorized user, creates a new account using the person's name and send friend requests to people on the user's list. TailWindCSS is used for css styling which has in-built functionalities.
     <br> 
 </p>
 
@@ -102,7 +102,7 @@ run "java application" for SpringBoot to start the project
 
 
 ### Break down into end to end tests
-Explain what these tests test and why
+ Main Purpose of this project is to give facility to create community and convey the world closer together. My project helps to interact with friends by sharing images, videos and Activity/Feelings in Post.
 
 Give an example
 
