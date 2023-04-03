@@ -94,11 +94,12 @@ npm install --save-dev eslint
 
 
 ## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
 
-run "java application" for SpringBoot to start the project
+Runnuning the project using the following comments:
 
-"npm run dev" for nextJs in front-end
+By clicking "java application" from "Run As" for SpringBoot to start the project
+
+By typing "npm run dev" for nextJs in front-end
 
 
 ### Break down into end to end tests
