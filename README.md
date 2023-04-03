@@ -125,21 +125,19 @@ Add notes about how to use the system.
 ## 🚀 Deployment <a name = "deployment"></a>
 To deploy the application to a production environment, follow these steps:
 
-Ensure that you have installed the required dependencies and have configured the necessary environment variables, such as the database connection details and any API keys or secrets.
+1. Ensure that you have installed the required dependencies and have configured the necessary environment variables, such as the database connection details and any API keys or secrets(facebook).
 
-Build the production-ready version of the application by running the appropriate build command, such as npm run build for the frontend or ./mvnw package for the backend.
+2. Start the application by running "java application" from Run As for the backend.
 
-Copy the built application to the server or hosting environment where you want to deploy the application.
+3. Copy the built application to the server or hosting environment where you want to deploy the application.
 
-Start the application by running the appropriate startup command, such as java -jar <path to jar file> for the backend or npm start for the frontend.
+4. Start the application by running "npm run dev" for the frontend.
 
-Ensure that the application is accessible from the internet by configuring any necessary firewalls or network settings, and by setting up any necessary DNS or domain mapping.
+5. Application is accessible from the internet by configuring http://loclhost:3000 and http://localhost:8080/api/v1/post.
 
-Monitor the application for any errors or issues, and make any necessary updates or patches as needed.
+6. Monitor the application for any errors or issues, and make any necessary updates or patches as needed.
 
-It's also a good idea to include any relevant information about the hosting environment or server requirements, such as the minimum recommended system specifications, the operating system or platform required, and any dependencies or libraries that must be installed.
 
-In addition, you may want to include any troubleshooting tips or common issues that users may encounter during deployment, along with suggested solutions or workarounds. This can help to ensure that the deployment process is as smooth and error-free as possible, and can help to minimize downtime or disruption for users.
 
 ## ⛏ Flow Chart <a name = "flowchart"></a>
 
