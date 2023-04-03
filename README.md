@@ -115,7 +115,19 @@ Running the project using the following comments:
 ### Break down into end to end tests
  
 
-Give an example
+1. User authentication: Test the user authentication flow, including logging in with valid and invalid credentials, session management, and logout functionality using the NextAuth.
+
+2. User profile: Test the user profile functionality, including editing user information, uploading profile pictures, and viewing other users' profiles.
+
+3. Posting and commenting: Test the ability to create posts and comments, including the display of posts and comments in the user's feed, and the ability to delete or edit posts and comments.
+
+4. Search functionality: Test the ability to search for users, posts, and other content within the application.
+
+5. Status: Test the status whether user is online or offline mode.
+
+Integration with external APIs: Test any integrations with external APIs, such as payment gateways, email providers, or social media platforms.
+
+When breaking down into end-to-end tests, it's important to prioritize the most critical user flows and scenarios, and to ensure that each test covers a specific user action or interaction. By testing the application end-to-end, you can ensure that the entire application is functioning as expected and that users can successfully complete the tasks they need to accomplish.
 
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
