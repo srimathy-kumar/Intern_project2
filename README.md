@@ -153,10 +153,10 @@ To deploy the application to a production environment, follow these steps:
 
 ![bg width:1000px](./flowchart_of_Fb_cloning.drawio.png)
 
-- [MySQL](https://www.mongodb.com/) - Database
+- [MySQL](https://mysql.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
 - [NextJs](https://nextjs.org/) - Web Framework
-- [Visual Studio](https://code.visualstudio.com/) - Server Environment
+- [Eclipse](https://www.eclipse.org/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@SkillLymc](https://github.com/kylelobo) - FSD
