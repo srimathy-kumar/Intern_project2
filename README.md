@@ -33,6 +33,15 @@
 Fully Functional E-commerce website Home Page is a responsive e-commerce website. The technologies used in this project are NextJs, TailwindCSS, NextAuth, Rest API and React Hook. There are a few important modules in the project like home page, creating post, adding/deleting the images, online/offline status of user, Like/Share/Comments. The data is accessed using Rest API and then rendered into the webpage. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant features.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
+1. Clone the repository and navigate to the root directory.
+2. Install the required dependencies for the SpringBoot backend by running ./mvnw install or mvnw.cmd install on Windows.
+3. Configure the database connection by modifying application.properties with your database information.
+4. Start the SpringBoot backend by running ./mvnw spring-boot:run or mvnw.cmd spring-boot:run on Windows.
+5. Navigate to the client directory and install the required dependencies for the Next.js frontend by running npm install.
+6. Start the Next.js frontend by running npm run dev.
+7. Open your web browser and navigate to http://localhost:3000 to view the application.
+
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
