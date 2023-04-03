@@ -120,7 +120,17 @@ End-to-end tests are designed to test the complete flow of the application from 
 By testing the application end-to-end, the entire application is functioning as expected and that users can successfully complete the tasks.
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+1. Installation: Need to install all the supporting dependencies as mentioned in installing topic.
+
+Configuration: .
+
+Usage instructions: Start the back end server, then start the front end using npm run dev, give the login access using NextAuth from facebook. After successful login, we can create the post using images/videos and Activity.
+
+API documentation: In this project, REST Api is used to linking with front end and back end along with database.
+
+Limitations or caveats: Mention any limitations or caveats that users should be aware of when using the application or library. This can include known bugs or issues, performance limitations, or any specific use cases that the application or library may not support.
+
+Troubleshooting: Finally, provide a troubleshooting section that covers common issues that users may encounter when using the application or library, along with possible solutions or workarounds
 
 ## 🚀 Deployment <a name = "deployment"></a>
 To deploy the application to a production environment, follow these steps:
