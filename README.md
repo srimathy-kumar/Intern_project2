@@ -41,9 +41,9 @@ What things you need to install the software and how to install them.
 we have install 
 
 
-Eclipse, 
-
-Visual Studio, 
+Eclipse,
+ 
+Visual Studio,
 
 Next-auth, 
 
