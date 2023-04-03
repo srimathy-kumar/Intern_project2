@@ -37,7 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository and navigate to the root directory.
 2. Install the required dependencies for the SpringBoot backend by running ./mvnw install or mvnw.cmd install on Windows.
 3. Configure the database connection by modifying application.properties with your database information.
-4. Start the SpringBoot backend by running ./mvnw spring-boot:run or mvnw.cmd spring-boot:run on Windows.
+4. Start the SpringBoot backend by running ./mvnw spring-boot:run or mvnw.cmd spring-boot:run on Windows or run "java application" from "Run As".
 5. Navigate to the client directory and install the required dependencies for the Next.js frontend by running npm install.
 6. Start the Next.js frontend by running npm run dev.
 7. Open your web browser and navigate to http://localhost:3000 to view the application.
@@ -95,7 +95,7 @@ npm install --save-dev eslint
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
-Running the project using the following comments:
+Running the project using the following commands:
 
 1. By clicking "java application" from "Run As" for SpringBoot to start the project
 
