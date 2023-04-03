@@ -151,7 +151,7 @@ To deploy the application to a production environment, follow these steps:
 
 ## ⛏ Flow Chart <a name = "flowchart"></a>
 
-![bg width:1000px](./LoginPageflowchart.png)
+![bg width:1000px](./flowchart_of_Fb_cloning.drawio.png)
 
 - [MySQL](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
