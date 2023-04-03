@@ -30,7 +30,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Home Page of facebook cloning in name of "Friendzee" is a responsive website. The technologies used in this project are NextJs, TailwindCSS, NextAuth, Rest API and React Hook. There are a few important modules in the project like home page, creating post, adding/deleting the images, online/offline status of user and Like/Share/Comments. The data is accessed using Rest API and then rendered into the webpage. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant features.
+Home Page of facebook cloning in name of "Friendzee" is a responsive website. The technologies used in this project are NextJs, TailwindCSS, NextAuth and React Hook. There are a few important modules in the project like home page, creating post, adding/deleting the images, online/offline status of user and Like/Share/Comments. The data is accessed using Rest API and then rendered into the webpage. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant features.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -170,4 +170,8 @@ I would like to thank the following individuals for their contributions to this 
 
   Without their contributions, this project would not have been possible.
 - References:
-https://www.youtube.com/watch?v=EHDlebVv6zw
+https://dev.to/cometchat/how-to-build-a-social-networking-site-with-next-js-facebook-clone-3eke
+
+  https://www.codejava.net/frameworks/spring-boot/social-login-with-facebook-example
+
+  https://bobbyhadz.com/blog/react-axios-network-error-stack-trace
