@@ -113,7 +113,7 @@ Running the project using the following comments:
 
 
 ### Break down into end to end tests
- 
+End-to-end tests are designed to test the complete flow of the application from the user's perspective, so it's important to think about the different user actions and interactions that need to be tested. 
 
 1. User authentication: Test the user authentication flow, including logging in with valid and invalid credentials, session management, and logout functionality using the NextAuth.
 
@@ -127,7 +127,7 @@ Running the project using the following comments:
 
 6. Integration with external APIs: Test any integrations with external APIs for social media platforms.
 
-When breaking down into end-to-end tests, it's important to prioritize the most critical user flows and scenarios, and to ensure that each test covers a specific user action or interaction. By testing the application end-to-end, you can ensure that the entire application is functioning as expected and that users can successfully complete the tasks they need to accomplish.
+By testing the application end-to-end, the entire application is functioning as expected and that users can successfully complete the tasks.
 
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
