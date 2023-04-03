@@ -128,9 +128,9 @@ Usage instructions: Start the back end server, then start the front end using np
 
 API documentation: In this project, REST Api is used to linking with front end and back end along with database.
 
-Limitations or caveats: Mention any limitations or caveats that users should be aware of when using the application or library. This can include known bugs or issues, performance limitations, or any specific use cases that the application or library may not support.
+Limitations: As it is cloning project, users can able to create post or delete the post when using the application. This can include known bugs or issues, performance limitations, or any specific use cases that the application or library may not support.
 
-Troubleshooting: Finally, provide a troubleshooting section that covers common issues that users may encounter when using the application or library, along with possible solutions or workarounds
+Troubleshooting: Before starting the Back-end server, user can't start from the client side. It will throw axios: NetworkError.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 To deploy the application to a production environment, follow these steps:
