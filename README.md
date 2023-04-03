@@ -122,15 +122,15 @@ By testing the application end-to-end, the entire application is functioning as 
 ## 🎈 Usage <a name="usage"></a>
 1. Installation: Need to install all the supporting dependencies as mentioned in installing topic.
 
-Configuration: .
+2. Configuration: .
 
-Usage instructions: Start the back end server, then start the front end using npm run dev, give the login access using NextAuth from facebook. After successful login, we can create the post using images/videos and Activity.
+3. Usage instructions: Start the back end server, then start the front end using npm run dev, give the login access using NextAuth from facebook. After successful login, we can create the post using images/videos and Activity.
 
-API documentation: In this project, REST Api is used to linking with front end and back end along with database.
+4. API documentation: REST APIs communicate via HTTP requests to perform standard database functions like creating, reading, updating, and deleting records (also known as CRUD) within a resource. For example, a REST API would use a GET request to retrieve a record, a POST request to create one, a PUT request to update a record, and a DELETE request to delete one. All HTTP methods can be used in API calls. A well-designed REST API is similar to a website running in a web browser with built-in HTTP functionality.
 
-Limitations: As it is cloning project, users can able to create post or delete the post when using the application. This can include known bugs or issues, performance limitations, or any specific use cases that the application or library may not support.
+5. Limitations: As it is cloning project, users can able to create post or delete the post when using the application. This can include known bugs or issues, performance limitations, or any specific use cases that the application or library may not support.
 
-Troubleshooting: Before starting the Back-end server, user can't start from the client side. It will throw axios: NetworkError.
+6. Troubleshooting: Before starting the Back-end server, user can't start from the client side. It will throw axios: NetworkError.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 To deploy the application to a production environment, follow these steps:
