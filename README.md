@@ -35,7 +35,7 @@ Home Page of facebook cloning in name of "Friendzee" is a responsive website. Th
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 1. Clone the repository and navigate to the root directory.
-2. Install the required dependencies for the SpringBoot backend by running ./mvnw install or mvnw.cmd install on Windows.
+2. Install the required dependencies for the SpringBoot backend by running ./mvnw install or mvnw.cmd install on Windows or from https://start.spring.io/.
 3. Configure the database connection by modifying application.properties with your database information.
 4. Start the SpringBoot backend by running ./mvnw spring-boot:run or mvnw.cmd spring-boot:run on Windows or run "java application" from "Run As".
 5. Navigate to the client directory and install the required dependencies for the Next.js frontend by running npm install.
