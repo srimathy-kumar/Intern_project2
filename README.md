@@ -107,11 +107,6 @@ By typing "npm run dev" for nextJs in front-end
 
 Give an example
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> ccb3ef98e38119bc8d4d95dd9750ea018ced0479
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
 
