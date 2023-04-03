@@ -105,9 +105,9 @@ Running the project using the following commands:
 ### Break down into end to end tests
 End-to-end tests are designed to test the complete flow of the application from the user's perspective so it's important to think about the different user actions and interactions that need to be tested. 
 
-1. User authentication: Test the user authentication flow, including logging in with valid and invalid credentials, session management, and logout functionality using the NextAuth.
+1. User authentication: Test the user authentication flow, including logging in with valid and invalid credentials, session management, and logout functionality using the NextAuth(facebook).
 
-2. User profile: Test the user profile functionality, including editing user information, uploading profile pictures, and viewing other users' profiles.
+2. User profile: Test the user profile functionality, including editing user information, uploading pictures, and viewing other users' profiles.
 
 3. Creating the post: Test the ability to create posts and comments, including the display of posts and comments in the user's feed, and the ability to delete or edit posts and comments.
 
@@ -164,6 +164,10 @@ To deploy the application to a production environment, follow these steps:
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+I would like to thank the following individuals for their contributions to this project:
+
+- The team at Skill-Lync, for generously providing the data used in this project.
+
+Without their contributions, this project would not have been possible.
+- References:
+https://www.youtube.com/watch?v=EHDlebVv6zw
