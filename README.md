@@ -166,8 +166,8 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 I would like to thank the following individuals for their contributions to this project:
 
-- The team at Skill-Lync, for generously providing the data used in this project.
+- The team at Skill-Lync, for generously providing the data used in this project. 
 
-Without their contributions, this project would not have been possible.
+  Without their contributions, this project would not have been possible.
 - References:
 https://www.youtube.com/watch?v=EHDlebVv6zw
