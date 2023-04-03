@@ -122,7 +122,7 @@ By testing the application end-to-end, the entire application is functioning as 
 ## 🎈 Usage <a name="usage"></a>
 1. Installation: Need to install all the supporting dependencies as mentioned in installing topic.
 
-2. Configuration: .
+2. Configuration: Configure the database connection by modifying application.properties with your database information.
 
 3. Usage instructions: Start the back end server, then start the front end using npm run dev, give the login access using NextAuth from facebook. After successful login, we can create the post using images/videos and Activity.
 
